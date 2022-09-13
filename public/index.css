@@ -1,0 +1,38 @@
+textarea {
+    padding: 6px 10px;
+    width: 100%;
+    box-sizing: border-box;
+    display: block;
+    border: 1px solid cadetblue;
+    margin: 10px 0;
+    height: 150px;
+    resize: none;
+}
+
+#in {
+    width: 45vw;
+    height: 30px;
+    padding: 3px;
+    font-size: 1.8rem;
+    border: 1px solid gray;
+}
+
+label {
+    text-align: left;
+    display: block;
+}
+
+.center-align h3 {
+    font-size: 20px;
+    color: teal;
+    margin-bottom: 10px;
+}
+
+.center-align button {
+    background: darkturquoise;
+    color: slateblue;
+    border: 0;
+    padding: 8px;
+    cursor: pointer;
+    border-radius: 8px;
+}

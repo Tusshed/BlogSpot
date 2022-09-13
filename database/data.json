@@ -1,0 +1,28 @@
+{
+    "blogs": [{
+            "title": "The Headless Horse",
+            "author": "Dr Kingsley",
+            "about": "long ago, when it vwas toxic and women were submissive to alphas, there were jealous simps without women and were envious of the alphas",
+            "id": 19,
+
+        },
+        {
+            "title": "Accelerate: Building and Scaling Technology ",
+            "author": "Nicole Forsgren ",
+            "about": "Does technology actually matter? And how can we apply technology to drive business value? For years, we've been told that the performance of software delivery teams doesn't matter—that it can't provide a competitive advantage to our companies. Through four years of groundbreaking research, Dr. Nicole Forsgren, Jez Humble, and Gene Kim set out to find a way to measure software delivery performance—and what drives it—using rigorous statistical methods. This book presents both the findings and the science behind that research. Readers will discover how to measure the performance of their teams, and what capabilities they should invest in to drive higher performance.",
+            "id": 20
+        },
+        {
+            "title": "The Practice of Management",
+            "author": " Peter F. Drucker",
+            "about": "A classic since its publication in 1954, The Practice of Management was the first book to look at management as a whole and being a manager as a separate responsibility. The Practice of Management created the discipline of modern management practices. Readable, fundamental, and basic, it remains an essential book for students, aspiring managers, and seasoned professionals.",
+            "id": 21
+        },
+        {
+            "title": "Leading Snowflakes",
+            "author": "Oren Ellenbogen ",
+            "about": "Leading Snowflakes offers you proven tools and practices for improving your management skills that you can implement – starting today.",
+            "id": 22
+        }
+    ]
+}
